@@ -52,6 +52,6 @@ This project was inspired by the need to gather mobile data from Flipkart for va
 
 ## Contact
 
-For any questions or inquiries, please contact [prajapatiarjun2801@example.com](mailto:your-email@example.com).
+For any questions or inquiries, please contact [prajapatiarjun2801@gmail.com](mailto:your-email@example.com).
 
 Feel free to modify the README file to suit your specific project requirements, and make sure to include any additional information or instructions that are relevant to your project.
